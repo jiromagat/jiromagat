@@ -26,7 +26,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=jiromagat&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=7F77DD&currStreakLabel=1D9E75&sideLabels=7F77DD&dates=888888" width="370"/>
 
 Full-stack developer who builds complete, production-ready web applications from scratch.
-I work across the entire stack — designing interfaces, engineering APIs, architecting
+I work across the entire stack designing interfaces, engineering APIs, architecting
 databases, and shipping to production. Clean code. Real results.
 
 ```yaml
