@@ -44,20 +44,31 @@ databases, and shipping to production. Clean code. Real results.
 
 ## `▸ tech.stack`
 
-<div align="center">
+<div align="left">
 
 ###  Backend
+<div align="center">
+  
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" />
+
 <br/>
 
+<div align="left">
 
 ###  Frontend
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind&theme=dark" />
 
+<div align="left">
+
 ###  Database
+<div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark" />
 
+<div align="left">
+
 ###  Mobile
+<div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark" />
 
 </div>
