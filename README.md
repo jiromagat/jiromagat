@@ -46,18 +46,18 @@ databases, and shipping to production. Clean code. Real results.
 
 <div align="center">
 
-### ⚙️ Backend
+###  Backend
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/REST_APIs-378ADD?style=flat-square&logoColor=white" height="28"/>
 
-### 🎨 Frontend
+
+###  Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind&theme=dark" />
 
-### 🗄️ Database
+###  Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark" />
 
-### 📱 Mobile
+###  Mobile
 <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark" />
 
 </div>
@@ -68,9 +68,6 @@ databases, and shipping to production. Clean code. Real results.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiromagat&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiromagat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7F77DD&text_color=c9d1d9" height="180"/>
 
 <br/>
 
